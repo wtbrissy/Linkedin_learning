@@ -1,11 +1,16 @@
+![Relative date](https://img.shields.io/date/1635211181)
+
 ## Table of Content
-1. [Course Summary](#course-summary)
-2. [First Steps](#first-stpes)
+1. [Project Summary](#project-summary)
+2. [Courses](#courses)
+	2.1 [Become a Data Scientist](#become-a-data-scientist)
 
+## Project Summary 
+This repository is a centre hub for all my LinedIn Learning notes and codes, focusing on *Data Science, Machine Learning and Automation*
 
+## Courses
+### Become a Data Scientist
+This [*Become a Data Scientist*](https://github.com/wtbrissy/Linkedin_learning/tree/main/Become%20a%20Data%20Scientist) course/learning path is provided by Linkedin Learnin. The course includes 7 modules, which are covered the fundamental stages of data science work, from Statistics and Systems Engineering to Data Minining and Machine Learning. 
 
-## Course Summary 
-This [*Become a Data Scientist*](https://www.linkedin.com/learning/paths/become-a-data-scientist?u=2163426) course/learning path is provided by Linkedin Learnin. The course includes 7 modules, which are covered the fundamental stages of data science work, from Statistics and Systems Engineering to Data Minining and Machine Learning. 
-
-## First Steps 
-Detailed study notes and certificate is documented under [Course 1 - First Steps](https://github.com/wtbrissy/Linkedin_learning/tree/main/Become%20a%20Data%20Scientist/Course%201%20-%20First%20Steps)
+## Certificates 
+All certificates can be found at [Certificates](https://github.com/wtbrissy/Linkedin_learning/tree/main/Certificates) folder in this repository.
