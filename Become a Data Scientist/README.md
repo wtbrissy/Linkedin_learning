@@ -1,14 +1,14 @@
 ## Table of Content
 - [Course Summary](#course-summary)
 - [Data Science Caree Paths and Certifications](#data-science-career-paths-and-certifications)
-- [Data Science Foundations](data-science-foundations)
+- [Data Science Foundations](#data-science-foundations)
 
 ## Course Summary 
 This [*Become a Data Scientist*](https://www.linkedin.com/learning/paths/become-a-data-scientist?u=2163426) course/learning path is provided by Linkedin Learnin. The course includes 7 modules, which are covered the fundamental stages of data science work, from Statistics and Systems Engineering to Data Minining and Machine Learning. 
 
 **Instructors**: 
-[Prof. Jungwoo Ryoo](https://www.google.com/search?q=Jungwoo+Ryoo&rlz=1C1GCEV_enAU864AU864&oq=Jungwoo+Ryoo&aqs=chrome..69i57j69i60.708j0j7&sourceid=chrome&ie=UTF-8)
-[Prof. Barton Poulson](https://www.uvu.edu/directory/employee/?id=N1RLUlRpVlltbXFQMGs3clF4QURVZz09)
+- [Prof. Jungwoo Ryoo](https://www.google.com/search?q=Jungwoo+Ryoo&rlz=1C1GCEV_enAU864AU864&oq=Jungwoo+Ryoo&aqs=chrome..69i57j69i60.708j0j7&sourceid=chrome&ie=UTF-8)
+- [Prof. Barton Poulson](https://www.uvu.edu/directory/employee/?id=N1RLUlRpVlltbXFQMGs3clF4QURVZz09)
 
 
 ## Data Science Career Paths and Certifications 
@@ -117,7 +117,6 @@ Solving practical problems by providing number crunching and massive storage
 ### Certifcate of Completion 
 [Certificate Of Completion Data Science  Analytics Career Paths Certifications First Steps](https://github.com/wtbrissy/Linkedin_learning/blob/main/Certificates/Certificate%20Of%20Completion%20Data%20Science%20Analytics%20Career%20Paths%20%20Certifications%20First%20Steps.pdf)
 
-----
 ## Data Science Foundations
 - [Define Data Science](#define-data-science)
 - [Data Science in the Data University](#data-science-in-the-data-university)
@@ -153,12 +152,12 @@ Solving practical problems by providing number crunching and massive storage
 ### Data Science in the Data University
 
 Data Science | Artificial Intelligence | Machine Learning |Neural Network* | Big Data
----|---|---| ---|---|
+:---|:---|:---| ---|:---|
 Skills and techniques for dealing with challlenging data | Algorithms that learn from data; broadly; machie leanring|The ability of algorithms to learn from data | Tiny steps with data that lead to amazing analytical results | Volume; Velocity; Variety
 
 Note: * Possible legal issues of using Nerual Network
 
-![[Pasted image 20211026131155.png]]
+![](https://github.com/wtbrissy/Linkedin_learning/blob/main/Images/Pasted%20image%2020211026131155.png)
 
 ### Different Types of Analytics 
 - Predictive analytics: *what could happen*
@@ -166,9 +165,8 @@ Note: * Possible legal issues of using Nerual Network
 	- Predictions that involve difficult data, e.g social media
 	- Predictions that involve sophisticated models, e.g nerual network models
 
-
  Data Science without Prediction | Data Science without Prescriptive
- ---|---|
+ :---|:---|
 |Clustering, counting, mapping, visualization |Predictive and descriptive work including classifying, clustering, trend analysis, anomalies|
 
 - Prescriptive analytics: *what should happen*
@@ -186,7 +184,7 @@ Note: * Possible legal issues of using Nerual Network
 		- Quasi-Experiments
  
 Prediction without Data Science | Prescriptive without Data Science |
----|---|
+:---|:---|
 Clean, quantitative data set; Common models like regression or decision tree | Experimental research with well-structured data, including A/B experiments | 
 
 
