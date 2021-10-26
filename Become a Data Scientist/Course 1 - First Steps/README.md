@@ -102,4 +102,4 @@ Solving practical problems by providing number crunching and massive storage
 		- Avoid disorting the data!
 
 ## Certifcate of Completion 
-[Certificate Of Completion Data Science  Analytics Career Paths Certifications First Steps](https://github.com/wtbrissy/Linkedin-Learning/blob/main/Certificates/CertificateOfCompletion_Data%20Science%20%20Analytics%20Career%20Paths%20%20Certifications%20First%20Steps.pdf)
+[Certificate Of Completion Data Science  Analytics Career Paths Certifications First Steps](https://github.com/wtbrissy/Linkedin_learning/blob/main/Certificates/Certificate%20Of%20Completion%20Data%20Science%20Analytics%20Career%20Paths%20%20Certifications%20First%20Steps.pdf)
