@@ -3,7 +3,7 @@
 ## Table of Content
 1. [Project Summary](#project-summary)
 2. [Courses](#courses)
-	2.1 [Become a Data Scientist](#become-a-data-scientist)
+	2.1. [Become a Data Scientist](#become-a-data-scientist)
 
 ## Project Summary 
 This repository is a centre hub for all my LinedIn Learning notes and codes, focusing on *Data Science, Machine Learning and Automation*
