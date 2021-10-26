@@ -1,11 +1,11 @@
 ## Table of Content
-1. [Course Summary](#course-summary)
-2. [First Steps](#first-stpes)
+- [Course Summary](#course-summary)
+- [Data Science Caree Paths and Certifications](#data-science-career-paths-and-certifications)
 
 ## Course Summary 
 This [*Become a Data Scientist*](https://www.linkedin.com/learning/paths/become-a-data-scientist?u=2163426) course/learning path is provided by Linkedin Learnin. The course includes 7 modules, which are covered the fundamental stages of data science work, from Statistics and Systems Engineering to Data Minining and Machine Learning. 
 
-## First Steps 
+## Data Science Career Paths and Certifications 
 - [Define Data Science](#define-data-science)
 - [A Brief History](#a-brief-history)
 - [Data Science Foundamentals](#data-science-foudamentals)
