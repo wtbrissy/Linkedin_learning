@@ -1,4 +1,5 @@
 ## Data Science Foundations
+### Table of Contents 
 - [Define Data Science](#define-data-science)
 - [Data Science in the Data University](#data-science-in-the-data-university)
 - [Different Types of Analytics](#different-types-of-analytics)
@@ -163,4 +164,4 @@ Clean, quantitative data set; Common models like regression or decision tree | E
 		- K-nearest neighbors 
 
 ### Certifcate of Completion 
-[Certificate Of Completion Data Science  Analytics Career Paths Certifications First Steps](https://github.com/wtbrissy/Linkedin_learning/blob/main/Certificates/Certificate%20Of%20Completion%20Data%20Science%20Analytics%20Career%20Paths%20%20Certifications%20First%20Steps.pdf)
+[Certificate Of Completion Data Science  Analytics Career Paths Certifications First Steps](https://github.com/wtbrissy/Linkedin_learning/blob/main/Certificates/Certificate%20Of%20Completion%20Data%20Science%20Foundations%20Fundamentals.pdf)
