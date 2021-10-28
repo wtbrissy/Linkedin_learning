@@ -2,6 +2,7 @@
 - [Course Summary](#course-summary)
 - [Data Science Caree Paths and Certifications](#data-science-career-paths-and-certifications)
 - [Data Science Foundations](https://github.com/wtbrissy/Linkedin_learning/blob/main/Become%20a%20Data%20Scientist/Data%20Science%20Foundations.md)
+- [Statistics Foundations]()
 
 ## Course Summary 
 This [*Become a Data Scientist*](https://www.linkedin.com/learning/paths/become-a-data-scientist?u=2163426) course/learning path is provided by Linkedin Learnin. The course includes 7 modules, which are covered the fundamental stages of data science work, from Statistics and Systems Engineering to Data Minining and Machine Learning. 
@@ -9,6 +10,7 @@ This [*Become a Data Scientist*](https://www.linkedin.com/learning/paths/become-
 **Instructors**: 
 - [Prof. Jungwoo Ryoo](https://www.google.com/search?q=Jungwoo+Ryoo&rlz=1C1GCEV_enAU864AU864&oq=Jungwoo+Ryoo&aqs=chrome..69i57j69i60.708j0j7&sourceid=chrome&ie=UTF-8)
 - [Prof. Barton Poulson](https://www.uvu.edu/directory/employee/?id=N1RLUlRpVlltbXFQMGs3clF4QURVZz09)
+- [Eddie Davila](https://wpcarey.asu.edu/people/profile/32769)
 
 
 ## Data Science Career Paths and Certifications 
