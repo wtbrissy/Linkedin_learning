@@ -1,4 +1,4 @@
-## Data Science Foundations
+## 2. Data Science Foundations
 ### Table of Contents 
 - [Define Data Science](#define-data-science)
 - [Data Science in the Data University](#data-science-in-the-data-university)

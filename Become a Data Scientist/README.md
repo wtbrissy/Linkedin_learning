@@ -13,7 +13,7 @@ This [*Become a Data Scientist*](https://www.linkedin.com/learning/paths/become-
 - [Eddie Davila](https://wpcarey.asu.edu/people/profile/32769)
 
 
-## Data Science Career Paths and Certifications 
+## 1. Data Science Career Paths and Certifications 
 - [A Brief History](#a-brief-history)
 - [Data Science Foundamentals](#data-science-foudamentals)
 - [Big Data Analytics](#big-data-analytics)
