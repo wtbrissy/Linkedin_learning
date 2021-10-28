@@ -105,3 +105,5 @@ The business requirments for data and analyzed and defined in support of an orga
 	- Be consistent
 	- Have an easily consumable format
 	- Have a predictable schedule 
+
+[Certificate Of Completion Data Governance](https://github.com/wtbrissy/Linkedin_learning/blob/main/Certificates/Certificate%20Of%20Completion%20Learning%20Data%20Governance.pdf)
