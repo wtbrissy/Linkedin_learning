@@ -4,6 +4,7 @@
 - [Data Science Foundations](https://github.com/wtbrissy/Linkedin_learning/blob/main/Become%20a%20Data%20Scientist/2%20-%20Data%20Science%20Foundations.md)
 - [Statistics Foundations](https://github.com/wtbrissy/Linkedin_learning/blob/main/Become%20a%20Data%20Scientist/3%20-%20Statistics%20Foundation.md)
 - [Data Governance](https://github.com/wtbrissy/Linkedin_learning/blob/main/Become%20a%20Data%20Scientist/4%20-%20Data%20Governance.md)
+- [Data Mining](https://github.com/wtbrissy/Linkedin_learning/blob/main/Become%20a%20Data%20Scientist/5-%20Data%20Mining.md)
 
 ## Course Summary 
 This [*Become a Data Scientist*](https://www.linkedin.com/learning/paths/become-a-data-scientist?u=2163426) course/learning path is provided by Linkedin Learnin. The course includes 7 modules, which are covered the fundamental stages of data science work, from Statistics and Systems Engineering to Data Minining and Machine Learning. 
