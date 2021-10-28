@@ -15,10 +15,8 @@ Largest - smallest
 - Standard deviation 
 	- z-score 
 	A data point's distance, in standard deviations, from the mean
-	![](https://github.com/wtbrissy/Linkedin_learning/blob/main/Images/Pasted%20image%2020211028101153.png)
+ 	![](https://github.com/wtbrissy/Linkedin_learning/blob/main/Images/Pasted%20image%2020211028101153.png)
 
-
-	
 	- Calculating standard deviation 
 	![](https://githubcom/wtbrissy/Linkedin_learning/blob/main/Images/Pasted%20image%2020211028101422.png)
 	
